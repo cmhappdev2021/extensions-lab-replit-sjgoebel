@@ -1,0 +1,2 @@
+language="swift"
+run="swiftc -o output main.swift && ./output"
